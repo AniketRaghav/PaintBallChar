@@ -59,10 +59,10 @@
 			"HoudiniPDGImporterMessages.cpp.obj",
 			"HoudiniPDGManager.cpp.obj",
 			"HoudiniPDGTranslator.cpp.obj",
-			"HoudiniSplineTranslator.cpp.obj",
-			"HoudiniStringResolver.cpp.obj"
+			"HoudiniSplineTranslator.cpp.obj"
 		],
 		"Module.HoudiniEngine.6_of_7.cpp.obj": [
+			"HoudiniStringResolver.cpp.obj",
 			"SAssetSelectionWidget.cpp.obj",
 			"HoudiniCoreTests.cpp.obj",
 			"UnrealBrushTranslator.cpp.obj",
